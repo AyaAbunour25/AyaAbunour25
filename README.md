@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/hello-world-text-coding-banner-in-sparkles-and-code-brackets-animation-gif-download-12340810.gif)" width="60%"/>
 
 # Hi, I'm Aya 👋
 
