@@ -80,7 +80,7 @@ Currently exploring **Full Stack Development, Mobile Development, Python, and AI
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Currently exploring **Full Stack Development, Mobile Development, Python, and AI
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaAbunour25&layout=compact&theme=dark" width="48%"/>
 
 </div>
-
+!-->
 ---
 
 ## 💻 Code Cycle
