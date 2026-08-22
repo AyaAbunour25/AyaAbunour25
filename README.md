@@ -9,7 +9,7 @@
 Passionate about building applications and learning new technologies.  
 Currently exploring **Full Stack Development, Mobile Development, Python, and AI & Data Science.**
 
-<img src="./Pictures\profile/Gemini_Generated_Image_5y3z45y3z45y3z45.pnp" width="40%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
 </div>
 
