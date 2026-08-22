@@ -2,12 +2,13 @@
 
 <img src="https://cdnl.iconscout.com/lottie/premium/thumb/hello-world-text-coding-banner-in-sparkles-and-code-brackets-animation-gif-download-12340810.gif)" width="60%"/>
 
-# Hi, I'm Aya 👋
+# Hi, I'm Aya Abunour 👋
 
 ### Full Stack Developer | Computer Science Student 💻
 
 Passionate about building applications and learning new technologies.  
-Currently exploring **Full Stack Development, Mobile Development, Python, and AI & Data Science.**
+Currently exploring **Full Stack Development, Mobile Development, Python, and 
+SQL.**
 
 <img src="https://cdnl.iconscout.com/lottie/premium/thumb/girl-developer-developed-code-animation-gif-download-5861979.gif" width="40%" alt="Girl Developer"/>
 
